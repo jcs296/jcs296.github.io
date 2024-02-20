@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+The current list of publications that I have been involved with.
+
+# 2024
+
+[Spencer K.A., Howe M.N., Mulholland M.T., Truong V., Liao R.W., Chen Y., Setha M., **Snell J.C.**, Hanaford A., James K., Morgan P.G., Sedensky M.M., Johnson S.C. Impact of dietary ketosis on volatile anesthesia toxicity in a model of Leigh syndrome. Pediatr Anesth. 2024; 00: 1-10.](https://onlinelibrary.wiley.com/doi/10.1111/pan.14855)
+
+# 2023
+
+[Spencer, K. A., Mulholland, M., **Snell, J.**, Howe, M., James, K., Hanaford, A. R., Morgan, P. G., Sedensky, M., & Johnson, S. C. (2023). Volatile anaesthetic toxicity in the genetic mitochondrial disease Leigh syndrome. British journal of anaesthesia, S00070912(23)00442-7. Advance online publication.](https://doi.org/10.1016/j.bja.2023.08.009)
+
+# 2022
+
+[Stokes, J. C., Bornstein, R. L., James, K., Park, K. Y., Spencer, K. A., Vo, K., **Snell, J. C.**, Johnson, B. M., Morgan, P. G., Sedensky, M. M., Baertsch, N. A., & Johnson, S. C. (2022). Leukocytes mediate disease pathogenesis in the Ndufs4(KO) mouse model of Leigh syndrome. JCI insight, 7(5), e156522.](https://doi.org/10.1172/jci.insight.156522)
+
+[Bornstein R, James K, Stokes J, Park KY, Kayser EB, **Snell J**, Bard A, Chen Y, Kalume F, Johnson SC. Differential effects of mTOR inhibition and dietary ketosis in a mouse model of subacute necrotizing encephalomyelopathy. Neurobiol Dis. 2022 Feb;163:105594.](https://www.sciencedirect.com/science/article/pii/S0969996121003430?via%3Dihub)
+
+# 2021
+
+[Stokes J, Freed A, Bornstein R, Su KN, **Snell J**, Pan A, Sun GX, Park KY, Jung S, Worstman H, Johnson BM, Morgan PG, Sedensky MM, Johnson SC. Mechanisms underlying neonate-specific metabolic effects of volatile anesthetics. Elife. 2021 Jul 13;10:e65400.](https://elifesciences.org/articles/65400)
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

@@ -1,0 +1,41 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    #- icon: twitter
+    #  text: Twitter
+    #  href: https://twitter.com/MarvinSchmittML
+    #- icon: github
+    #  text: Github
+    #  href: https://github.com/marvinschmitt
+    #- icon: linkedin
+    #  text: LinkedIn
+    #  href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.jcs296@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Bio
+
+John Snell is a 2^nd^ year Ph.D. student At Case Western Reserve University in the [Kenneth Matreyek Lab](https://www.matreyeklab.com/).  At present, John is studying the picornaviral 2A peptide, and how sequence of this protein motif mediates ribosomal skipping.  His work involves site saturation mutagenesis of known 2A peptides, while exploring sequence space in potential sequences of similar function that may exist elsewhere in the tree of life.
+
+
+
+
+
+An intelligent heart acquires knowledge,
+and the ear of the wise seeks knowledge.
+Proverbs 18:15
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
