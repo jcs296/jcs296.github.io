@@ -1,5 +1,9 @@
 ---
+layout: page
 title: "Publications"
+toc: true
+toc-title: Contents
+toc-location: left
 ---
 
 The current list of publications that I have been involved with.
@@ -21,10 +25,3 @@ The current list of publications that I have been involved with.
 # 2021
 
 [Stokes J, Freed A, Bornstein R, Su KN, **Snell J**, Pan A, Sun GX, Park KY, Jung S, Worstman H, Johnson BM, Morgan PG, Sedensky MM, Johnson SC. Mechanisms underlying neonate-specific metabolic effects of volatile anesthetics. Elife. 2021 Jul 13;10:e65400.](https://elifesciences.org/articles/65400)
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```

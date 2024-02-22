@@ -1,0 +1,110 @@
+---
+title: How to be a modern scientist
+description: ""
+date: 02-21-2024
+categories:
+  - books
+image: modsci.png
+draft: false
+twitter-card:
+  image: "modsci.png"
+  
+toc: true
+toc-title: Contents
+toc-location: left
+
+# based on MarvinSchmitt format
+---
+Recently, I read through Jeffrey Leek's book *How to be a modern scientist*.  This book acts as an "opinionated guide to being a scientist using modern iternet-enabled research, teaching, publishing, and communication tools" according to Leek's own words.  In the course of his writing, Leek covers a series of major points:
+
+* Paper Writing
+* Publishing
+* Peer Review
+* Data Sharing
+* Scientific Blogging
+* Scientific Code
+* Social Media in Science
+* Teaching in Science
+* Books
+* Internal Scientific Communication
+* Scientific Talks
+* Reading Scientific papers
+* Credit
+* Career Planning
+* Online Identity
+
+Here, I will provide a brief overview of my personal thoughts on each section.
+
+# Paper Writing
+
+A major point that Leek makes regarding the paper writing process that I haven't greatly considered is the use of collaborative writing software in order to minimize versioning issues.  Most papers I have been involved with were primarily produced using Microsoft Word, and some more recent work has been produced involving the use of Google Docs.  I personally never greatly considered the importance of versioning of documents, but especially when there are more authors, being able to version can have both important credit and information sharing ramifications, so I will pay more attention to this process.  Additionally, Leek calls out [Overleaf](https://www.overleaf.com/) and [ShareLatex](https://www.sharelatex.com/) as useful typesetting software that allow use of LaTeX in a more Google Docs-y way.  I will consider looking into these in the future, as I am planning to start exploring the use of LaTeX more in my writing over the next few years.
+
+# Publishing
+
+Two major points stood out to me in this section.  First, release prints in open access format.  Second, share preprints of papers.  While I wholeheartedly agree with making papers open access (accessibility of information is important in science afer all!), the point about sharing preprints can be complicated, as preprint publication functionally amounts to public commons release of papers, which can have problematic consequences in some countries and at some institutions.  Ultimately, I will probabbly err on the side of talking to appropriate parties for guidance when I am in situations where preprint release may cause issues.  But in general, I do agree that preprint release can be useful for the general public when it is possible.
+
+# Peer Review
+
+When you are asked to peer review, do it quickly, or quickly decline.  When you do review, evaluate the quality of the methods and data, whether the data justify the results, and how important the claims are.  I personally think that it is useful to have the guidelines of a 1 month turnaround as Leek suggests as it can be challenging to have a good understanding of good timelines without insight of more senior authors.  While I have gotten to see the inside of the peer review process before, getting some clearer guidelines about the proccess are especially useful in my opinion.
+
+# Data Sharing
+
+Leek argues that data should be made available when the associated paper is published.  I generally agree, but with a major asterisk.  While the reproducibility crisis has been harrowing for biologists especially, the problem of clinical samples can quickly become problematic.  RNA seq data from a mouse should assuredly be published automatically, but results that have the potential of being traced back to a patient could be problematic for them or their families, especially if bad actors in the political, data brokerage, or health insurance realms succeed in re-identifying data.  As is, data privacy is underprotected in the United States (where I am), and so clinical subjects aren't protected from those bad actors.  Until better frameworks are put in place to protect data, clinical data that has the potential of being connected back to the person should maybe be held in more cautious hands.  Otherwise, Data sharing should be a priority.
+
+# Scientific Blogging
+
+Well, I guess that is partially what I am doing now.
+
+Ultimately, scientific blogging has 2 major tracts according to Leek.  Either you use it to respond to criticism of your work, or you use it to raise your profile.  I'd probably prefer to use it to raise my profile, but we will see.  Being able to put a face to a name in science is important, as the list of authors on a paper isn't just a group of robots, and so blogging helps to personalize the people behind those papers.
+
+# Scientific Code
+
+Distribute your code publicly and freely.  While Leek gets into the importance of simple code and literate programming, the biggest point is to make code behind analysis freely available.  A point that I think should have been made more prominently was to also make code more readable to less code-literate individuals.  While this is changing, even during my undergrad education (2016-2020) we never touched code, and I've heard that even many recent Ph.D.s don't get training in how to read and use code.  If they need to read your code, they wouldn't be able to read it.  This also maybe gets at issues with some coding languages being obtuse to understand, but an important part of scientific code reproducability is that people with minimal training should be able to relatively quickly figure out what a chunk of code does.
+
+# Social Media in Science
+
+I don't think that this section aged very well. Leek argues for use of social media for networking and for communication of work, and to avoid hot button topics.  The problem I take with this is that major changes have happened in the world of social media since 2016.  Twitter was bought by Elon Musk and has seen a mass exodus.  Regulatory changes internationally have had numerous impacts on the algorithms of social media.  COVID19 made scientists the cultural firestorm for 3 years.  While I do think that scientists have their place in social media, I think that the space is not as healthy as it was 8 years ago.  Hopefully this improves, however.
+
+# Teaching in Science
+
+Leek argues that teaching materials should be put online, and that materials should be tailored to modern learning approaches, such as more digestible formats.  I tend to agree with Leek about the need to have online, easily accessible teaching materials in science.  The need for short format teaching is sadly connected to the dopamine hacking that occurs in the modern internet, which is an issue that should be addressed, but since that is the paradigm, we must work within that framework as is possible.  I do wonder personally how much space there is to develop scientific learning materials in short format media (i.e. TikTok/Youtube Shorts), but since I avoid interacting with the hub of those as much as possible, I am not sure personally.
+
+# Books
+
+Many scientists write books.  Leek argues that to avoid traditional publishers.  Seems reasonable to me, especially if you are writing a smaller book like this.  I don't really have any other thoughts.  Publish books if you want, have a blast, write in all the jokes. (But seriously, it's ok to make sure that books have personality in them.)
+
+# Internal Scientific Communication
+
+Have an electronic means of communicating with your team.  Leek calls out [Slack](https://slack.com/) and Hipchat (which was deprecated).  I've heard that some groups use [Discord](https://discord.com/), but I'm not sure if I would recommend Discord for data privacy reasons.  Big points to consider are:
+
+* Possibility of setting up sub discussions per project
+* Integration/access to Google Docs etc.
+* Archived conversations
+
+While email is useful, the collaborative ability of more forum-like private messaging networks makes them more useful in the modern scientific process.  Our group uses Slack, and I would definitely recommend that any lab that doesn't use any of these kinds of networks quickly get to using them.
+
+# Scientific Talks
+
+Leek makes a number of points about scientific talks, which all culminate around the idea that a talk should be entertaining, short, and clear.  These points are broadly applicable to any sort of public speaking, and I think that the section should have really been titled public speaking instead.  My big add on that Leek doesn't address is that you need to speak **to** your audience.  It's easy to write up a set of slides and read off of lecture notes, but if the audience members feel like you aren't aware of them, they will wonder why this wasn't just a recorded video.  My personal approach is to not include speaker notes in a slide deck, and to avoid using note cards.  Maybe this comes from the background of my father being a pastor, but a major point that I have learned is that in public speaking, you need to take people on a journey with you.  Make eye contact.  Gesticulate.  Crack jokes.  Be personable.  A bad single slide presented by a great presentor is better than a great slide deck with a terrible presentor.  Learn to speak **to people**, not **at people** while you are **in front of people**.
+
+# Reading Scientific Papers
+
+There are allegedly [over 5 million papers published each year](https://wordsrated.com/number-of-academic-papers-published-per-year/).  Assuming that it takes 1 hour to read a paper, and assuming that only 0.1% of papers are even remotely of interest to you, it would take 214.2 straight days to read those papers.  Nobody has time for that.  Leek proposes setting up an aggregator for papers or following bioRxiv for interesting papers.  From there, read the title of every paper, read the abstracts for 20-50%, checking out the figures for 5-10%, and reading the whole paper for 1-3%.  Overall, the strategy seems reasonable.  One professor I had in graduate school set up a Python script that aggregates papers from Pubmed under a set of search terms, and had it set to run weekly and return links to new papers that may be of interest to him.  I plan to set up some sort of aggregator myself in the near future, and will likely follow Leek's approach to some degree.
+
+# Credit
+
+Science in the 20^th^ and 21^st^ centuries is built around credit.  In the world of paper writing, this is having your name in the authors section.  In the digital age, this involves people viewing your websites and utilizing your code.  As I have less experience with the more "internety" portions of credit, the big tools that Leek calls out that I think are useful to consider are Google Analytics (page views), Publons (peer review contributions), and Google Scholar (quantifying citations to your work).  It won't be now, but I definitely plan to return to this section in the future as I continue to work on my professional profile.
+
+# Career Planning
+
+Have a career plan.  There are many career plans out there.  Broadly, I know that I am interested in following a tenure track faculty/PI researcher position.  The question becomes how to follow down that road.  Leek references a [worksheet](https://github.com/BenLangmead/langmead-lab/blob/master/postdoc_questionnaire.md) which I will end up returning to at a later date.  I think I will finish my quals before I dig too deep into this though.
+
+# Your Online Identity
+
+Leek adivses that a person maintain regular contact formats, and generally follow common internet courtesy.  We live in an online society now, and being aware of other people and how they find and interact with you is extremely valuable both for sharing science, and for representing the institution you work at/for.  Pretty stratitforward advice that I would hope most people consider.
+
+# Closing Thoughts
+
+The book was definitely a useful quick read, but it is already starting to show its age some.  An updated version for a post-pandemic world would be especially useful to help improve longevity.  Otherwise, definitely worth reading for future grad students.
+
+The book can be found at [leanpub](https://leanpub.com/modernscientist) and at [Amazon](https://www.amazon.com/How-modern-scientist-Jeffrey-Leek-ebook/dp/B01E0EON7W) in ebook format for $10 USD.

@@ -2,53 +2,39 @@
 
 # website settings
 website:
-  title: "John Snell"
-  description: ""
+  title: "John Snell"                                # Your name
+  description: ""   # A brief slogan (optional)
   image: img/John_Snell.png
   
-  favicon: img/favicon.png
+  favicon: img/John_Snell.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/John_Snell.png
     
     # your sub-pages
     left:
       - text: "Projects"
-        href: Projects/index.qmd
+        href: projects/index.qmd
       - text: "Publications"
-	href: Publications/index.qmd
+        href: Publications/index.qmd
       - text: "CV"
-        href: CV/index.qmd
-      - blog: "Blog"
-	href: Blog/index.qmd
+        href: cv/index.qmd
+      - text: "Blog"
+        href: Blog/index.qmd
     
     # your social media handles
     right:
-      - icon: GitHub
-        href: https://github.com/jcs296
-      #- icon: twitter
-      #  href: https://twitter.com/MarvinSchmittML
-      #- icon: linkedin
-      #  href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+#      - icon: folder-symlink
+#        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+#      - icon: twitter
+#        href: https://twitter.com/MarvinSchmittML
+#      - icon: linkedin
+#        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
       - icon: envelope
         aria-label: email
-        href: "mailto:jcs296@case.edu"  
-  
-  
-
-# Don't touch unless you know what you are doing :) ------------
-  search: 
-    location: navbar
-    type: textbox
-  page-footer: 
-    left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
-    right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+        href: "mailto:jcs296@case.edu"
 
 project:
   type: website

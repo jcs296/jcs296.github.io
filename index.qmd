@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/John_Snell.png"
   links:
     #- icon: twitter
     #  text: Twitter
@@ -32,10 +32,3 @@ John Snell is a 2^nd^ year Ph.D. student At Case Western Reserve University in t
 An intelligent heart acquires knowledge,
 and the ear of the wise seeks knowledge.
 Proverbs 18:15
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
-

@@ -2,27 +2,14 @@
 title: Projects
 ---
 
-## The Languages of Middle-earth
+## Determination of sequence-based effects of the 2A peptide on ribosomal skipping efficiency
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+<img src="Project1.png" style="height: 100%; width: 100%">
 
-<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+The aphthovirus subfamily of picornaviridae contain a protein sequence called the 2A peptide that is considered to [mediate a ribosomal 'skipping' mechanism](https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-5-1013).  This mechanism takes 3 forms: skipping, where failure to form the G-P peptide bond occurs and two proteins are produced from a single translation event; readthrough, where the G-P peptide bond is formed and a fusion product is produced; and falloff, where failure to form the G-P peptide bond occurs, and translation terminates, producing only one protein product.  These events are considered to occur at some specific ratio based on the peptide sequence.  At present, it is known that a C-terminal DxExNPGP is conserved among sequences that have been observed to mediate skipping.  However, the 20 residues culminating in the C-terminal NPGP are observed to be necessary for skipping to occur, and are broadly unconserved among sequences observed to mediate skipping.  In order to understand how upstream sequence mediates ribosomal skipping, we are utilizing site saturation mutagenesis approaches to produce the largest libraries of 2A and 2A-like sequences to date.
 
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+## Survey Potential Ribosomal skipping in diverse Eukaryotic 2A-like sequences
 
-----
+<img src="Project2.png" style="height: 100%; width: 100%">
 
-## The History of the War of the Ring
-
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
-
-<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
-
-I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+When performing precursory BLAST searches utilizing the most studied 2A peptides, Eukaryotic sequences of unknown function frequently arise.  Given their similarity to aphthovirus picornaviridae 2A peptides, we seek to determine if a previously undescribed "ribosomal skipping" function motif exists in Eukarya, which we are determining through high throughput analyses.
