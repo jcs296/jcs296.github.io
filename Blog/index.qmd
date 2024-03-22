@@ -5,6 +5,7 @@ title: Blog
 listing:
   - id: posts_2024
     contents:
+      - "Useful-pages-for-R/index.qmd"
       - "How-to-be-a-modern-scientist/index.qmd"
     sort: "date desc"
     template: ../html/blog/listing.ejs
