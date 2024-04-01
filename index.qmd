@@ -15,7 +15,10 @@ about:
     #  href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
     - icon: envelope
       text: Email
-      href: "mailto:mail.jcs296@case.edu"  
+      href: "mailto:mail.jcs296@case.edu"
+    - icon: r-square-fill
+      text: ResearchGate
+      href: "https://www.researchgate.net/profile/John-Snell-4"  
 ---
 
 ::: {#about-block}
