@@ -1,0 +1,20 @@
+---
+title: Useful pages for R
+description: ""
+date: 03-22-2024
+categories:
+  - R_Programming
+draft: false
+
+toc: true
+toc-title: Contents
+toc-location: left
+
+# based on MarvinSchmitt format
+---
+
+I will update this as I feel is appropriate with webpages that I feel have useful contents and/or tips for R programming.  See dates for content addition.
+
+# 3/22/2023
+
+[This webpage](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) from [Tian Zheng](http://www.stat.columbia.edu/~tzheng/).  Contains a list and example colors for use in R programming.

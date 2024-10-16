@@ -10,6 +10,8 @@ The current list of publications that I have been involved with.
 
 # 2024
 
+[Shukla N, Roelle SM, Snell JC, DelSignore O, Bruchez AM, et al. (2024) Pseudotyped virus infection of multiplexed ACE2 libraries reveals SARS-CoV-2 variant shifts in receptor usage. PLOS Pathogens 20(5): e1012044.](https://doi.org/10.1371/journal.ppat.1012044)
+
 [Spencer K.A., Howe M.N., Mulholland M.T., Truong V., Liao R.W., Chen Y., Setha M., **Snell J.C.**, Hanaford A., James K., Morgan P.G., Sedensky M.M., Johnson S.C. Impact of dietary ketosis on volatile anesthesia toxicity in a model of Leigh syndrome. Pediatr Anesth. 2024; 00: 1-10.](https://onlinelibrary.wiley.com/doi/10.1111/pan.14855)
 
 # 2023
