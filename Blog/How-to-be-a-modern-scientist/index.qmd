@@ -15,6 +15,9 @@ toc-location: left
 
 # based on MarvinSchmitt format
 ---
+
+(Note: This was an assignment for a class to create this blogpost alongisde making this site.  Am keeping the page up for historicity sake.)
+
 Recently, I read through Jeffrey Leek's book *How to be a modern scientist*.  This book acts as an "opinionated guide to being a scientist using modern iternet-enabled research, teaching, publishing, and communication tools" according to Leek's own words.  In the course of his writing, Leek covers a series of major points:
 
 * Paper Writing
