@@ -8,6 +8,10 @@ toc-location: left
 
 The current list of publications that I have been involved with.
 
+# 2025
+
+[Shukla N., Kamath N., **Snell J.C.**, Bruchez A., Matreyek K.A. (2025) Title: Kozak sequence libraries for characterizing transgenes across expression levels Running title: Kozak libraries for functional genetics (Preprint, DOI 10.1101/2025.04.28.651141)](https://www.biorxiv.org/content/10.1101/2025.04.28.651141v1)
+
 # 2024
 
 [Shukla N, Roelle SM, Snell JC, DelSignore O, Bruchez AM, et al. (2024) Pseudotyped virus infection of multiplexed ACE2 libraries reveals SARS-CoV-2 variant shifts in receptor usage. PLOS Pathogens 20(5): e1012044.](https://doi.org/10.1371/journal.ppat.1012044)

@@ -7,6 +7,8 @@ listing:
     contents:
       - "Useful-pages-for-R/index.qmd"
       - "How-to-be-a-modern-scientist/index.qmd"
+  - id: posts_2025
+      - "Additional_data_from_the_kozak_paper"
     sort: "date desc"
     template: ../html/blog/listing.ejs
     categories: true
@@ -22,6 +24,11 @@ comments: false
 ---
 
 Welcome to the blog section!
+
+## 2025
+
+:::{#posts_2025}
+:::
 
 ## 2024
 

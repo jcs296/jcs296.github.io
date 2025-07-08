@@ -19,6 +19,9 @@ about:
     - icon: r-square-fill
       text: ResearchGate
       href: "https://www.researchgate.net/profile/John-Snell-4"  
+    - icon: butterfly
+      text: BlueSky
+      href: 'https://bsky.app/profile/johncsnell.bsky.social'
 ---
 
 ::: {#about-block}
@@ -26,7 +29,7 @@ about:
 
 # Bio
 
-John Snell is a 3^rd^ year Ph.D. candidate At Case Western Reserve University in the [Kenneth Matreyek Lab](https://www.matreyeklab.com/).  At present, John is studying the picornaviral 2A peptide, and how sequence of this protein motif mediates ribosomal skipping.  His work involves site saturation mutagenesis of known 2A peptides, while exploring sequence space in potential sequences of similar function that may exist elsewhere in the tree of life.
+John Snell is a 4^th^ year Ph.D. candidate At Case Western Reserve University in the [Kenneth Matreyek Lab](https://www.matreyeklab.com/).  At present, John is studying the picornaviral 2A peptide, and how sequence of this protein motif mediates ribosomal skipping.  His work involves site saturation mutagenesis of known 2A peptides, while exploring sequence space in potential sequences of similar function that may exist elsewhere in the tree of life.
 
 
 
