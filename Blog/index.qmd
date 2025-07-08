@@ -24,13 +24,3 @@ comments: false
 ---
 
 Welcome to the blog section!
-
-## 2025
-
-:::{#posts_2025}
-:::
-
-## 2024
-
-:::{#posts_2024}
-:::

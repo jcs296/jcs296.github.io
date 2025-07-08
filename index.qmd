@@ -19,8 +19,8 @@ about:
     - icon: r-square-fill
       text: ResearchGate
       href: "https://www.researchgate.net/profile/John-Snell-4"  
-    - icon: butterfly
-      text: BlueSky
+    - icon: bluesky
+      text: bluesky
       href: 'https://bsky.app/profile/johncsnell.bsky.social'
 ---
 
