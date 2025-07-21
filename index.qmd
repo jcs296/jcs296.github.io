@@ -22,6 +22,9 @@ about:
     - icon: bluesky
       text: bluesky
       href: 'https://bsky.app/profile/johncsnell.bsky.social'
+    - icon: check_circle
+      text: orcid
+      href: 'https://orcid.org/0000-0003-2683-6108'
 ---
 
 ::: {#about-block}
